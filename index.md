@@ -3,6 +3,9 @@
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
+``` javascript
+var myVar = "Hello, world!";
+```
 
 
 
@@ -21,5 +24,3 @@
 
 
 
-
-Mudança realizada para informar o tema do arquivo
